@@ -12,7 +12,7 @@ The application allows users to enter an email topic and select different tones 
 - Fast response generation using OpenAI API
 - Beginner-friendly project structure
 
-## Technologies Used
+## Technologies Used 
 
 - Python
 - Streamlit
